@@ -53,7 +53,9 @@ git things
 ==========
 
 1. change
+
 2. terminal
+
     git add .
     git commit -m "message"
     git push origin branch
