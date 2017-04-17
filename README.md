@@ -47,3 +47,9 @@ after kernel uprades. Do it this way:
     git clone https://github.com/neurobin/MT7630E.git
     cd MT7630E/
     sudo make dkms
+
+
+git things
+==========
+
+test
