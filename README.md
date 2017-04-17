@@ -51,10 +51,7 @@ after kernel uprades. Do it this way:
 
 git things
 ==========
-
-1. change
-
-2. terminal
+change
 
     git add .
     git commit -m "message"
