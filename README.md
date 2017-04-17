@@ -52,4 +52,9 @@ after kernel uprades. Do it this way:
 git things
 ==========
 
-test
+1. change
+2. terminal
+    git add .
+    git commit -m "message"
+    git push origin branch
+
